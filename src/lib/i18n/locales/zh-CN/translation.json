@@ -27,6 +27,7 @@
 	"{{count}} of {{total}} accessible_one": "{{count}}/{{total}} 可访问",
 	"{{count}} of {{total}} accessible_other": "可访问 {{count}}/{{total}}",
 	"{{COUNT}} pipeline(s) selected": "已选择 {{COUNT}} 个 Pipeline。",
+	"{{count}} recovery codes remaining_one": "还剩 {{count}} 个恢复码。",
 	"{{count}} recovery codes remaining_other": "还剩 {{count}} 个恢复码。",
 	"{{count}} removed lines_one": "删除 {{count}} 行",
 	"{{count}} removed lines_other": "删除 {{count}} 行",
@@ -3583,6 +3584,5 @@
 	"YouTube": "YouTube",
 	"YouTube video player": "YouTube 视频播放器",
 	"Zoom in": "放大",
-	"Zoom out": "缩小",
-	"{{count}} recovery codes remaining_one": "还剩 {{count}} 个恢复码。"
+	"Zoom out": "缩小"
 }
